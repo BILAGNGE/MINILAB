@@ -28,25 +28,6 @@ Chaque zone contient :
 - 1 téléphone IP
 
 ---
-<<<<<<< HEAD
-## ARBORESCENCE
-
-                     Internet
-                        |
-                    Cisco 1941
-                        |
-                 Trunk VLAN 1/10/20/30
-                        |
-         ---------------------------------
-         |               |               |
-      Switch 1       Switch 2       Switch 3
-         |               |               |
-   PC / WiFi /      PC / WiFi /    PC / WiFi /
-   Téléphone IP     Téléphone IP   Téléphone IP
-
-
-=======
->>>>>>> 6feb3bf8e65f4db0d527d551fc3ed435e6e6e9f2
 
 ## VLAN utilisés
 
@@ -179,14 +160,7 @@ Création des pools DHCP pour chaque VLAN.
 
 ## Auteur
 
-<<<<<<< HEAD
-Brayan Bilag
-Bachelor Cybersécurité
+BRAYAN LOIC
+BTS SIO / Bachelor Cybersécurité
 
 Projet réalisé avec Cisco Packet Tracer.
-=======
-Brayan Bilagnge
-Bachelor Cybersécurité
-
-Projet réalisé avec Cisco Packet Tracer.
->>>>>>> 6feb3bf8e65f4db0d527d551fc3ed435e6e6e9f2
